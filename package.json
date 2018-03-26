@@ -1,0 +1,24 @@
+{
+  "name": "parcel-pug-tslib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.pug",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prinzhorn/parcel-pug-tslib.git"
+  },
+  "author": "Alexander Prinzhorn <alexander@prinzhorn.it> (https://www.prinzhorn.it/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Prinzhorn/parcel-pug-tslib/issues"
+  },
+  "homepage": "https://github.com/Prinzhorn/parcel-pug-tslib#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.6.2",
+    "parcel-plugin-pug": "^0.3.0"
+  }
+}
